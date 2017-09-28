@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/johntdyer/slack-go"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 // Project version

@@ -1,7 +1,7 @@
 package slackrus
 
 import (
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 // Supported log levels

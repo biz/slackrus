@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/johntdyer/slackrus"
-	logrus "github.com/sirupsen/logrus"
+	logrus "github.com/Sirupsen/logrus"
 )
 
 func main() {
